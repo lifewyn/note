@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "4ebe603088a3f470",
+    "type": "split",
+    "children": [
+      {
+        "id": "16cea193999b4f44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d9d9bdf5bfdd93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thread/循环变量 i 作为参数传递给线程函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "循环变量 i 作为参数传递给线程函数"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b31fa3941c608e73",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb58fb0f8022469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1d5f8940245aa7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c3a0297bcbcbb3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "edd44d9826377910",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "right": {
+    "id": "cba1cd3b238a42df",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ed62d36de8ff15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627e6579931de0d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scom/测温平台/测温平板软件设计.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 测温平板软件设计"
+            }
+          },
+          {
+            "id": "db63e85d5e3fb980",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8a16ae41d92f70d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "66b0f8bfbde2f8b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "佐罗/射线机控制系统软件框架/射线机控制系统软件框架.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 射线机控制系统软件框架"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d9d9bdf5bfdd93b",
+  "lastOpenFiles": [
+    "Obs_use/链接图片.md",
+    "Obs_use/obsidian 快捷键.md",
+    "Obs_use/Mermaid.md",
+    "I2C/I2C 全志.md",
+    "IPC/Dbus/D-bus.md",
+    "2025-04-28.md",
+    "C/No such file or directory.md",
+    "2025-04-25.md",
+    "linux/cjson cfg.md",
+    "Git/git 删除分支.md",
+    "I2C/Pasted image 20250320103855.png",
+    "Pic/Pasted image 20250214143821.png",
+    "Pic/Pasted image 20250214135059.png",
+    "Pic/Pasted image 20250220133556.png",
+    "Pic/Pasted image 20250220162742.png",
+    "Pic/Pasted image 20250326154927.png",
+    "Pic/Pasted image 20250224155058.png",
+    "Pic/Pasted image 20250214134427.png",
+    "Pic/Pasted image 20250211134832.png",
+    "Pic/Pasted image 20250211134427.png",
+    "2025-04-23.md",
+    "Thread/循环变量 i 作为参数传递给线程函数.md",
+    "2025-04-22.md",
+    "项目复盘/消息处理和消息发送分离.md",
+    "项目复盘/复盘backlog.md",
+    "项目复盘/Cursor IPC.md",
+    "项目复盘/basic SW architecture.md",
+    "Scom/Untitled 1.md",
+    "Scom/Untitled.md",
+    "Scom/TQT113_linux_V2.0 嵌入式系统项目详细功能梳理.md",
+    "Network/如果只监控tcp_status_type可行吗？.md",
+    "Network/虚拟机 三种网络连接方式.md",
+    "Network/抓包工具wireshark.md",
+    "Scom/新平台冷阴极控制系统/GP8503DAC测试/GP8503模块I2C通信测试报告.md",
+    "linux/快速修改当前路径.md",
+    "Scom/测温平台/温度测试软件设计文档.md",
+    "Scom/测温平台/Untitled.canvas",
+    "Scom/测温平台/共享平台",
+    "Scom/新平台冷阴极控制系统/射线机控制系统软件框架/射线机控制系统软件框架.pdf",
+    "Scom/新平台冷阴极控制系统/任务清单/软件设计工作清单v3.pdf",
+    "work_log/2025_04/Week2516",
+    "work_log/2025_Apr/Week2514",
+    "work_log/2025_Apr/Week2513",
+    "work_log/2025_Apr/Week2512",
+    "work_log/2025_Apr/Week2511",
+    "work_log/2025_Apr/Week2510",
+    "work_log/2025_04",
+    "Scom/新平台冷阴极控制系统/uart-man/Uuart-man data flow.canvas",
+    "Scom/冷阴极控制系统/优化/冷阴极系统优化.canvas",
+    "Untitled 1.canvas",
+    "Scom/冷阴极控制系统/梳理/射线机控制系统新老任务.canvas",
+    "Scom/冷阴极控制系统/任务/串口多线程/Sync_issue/thread sync.canvas",
+    "Scom/任务划分/AI optimize.canvas",
+    "Scom/Xray Plan.canvas",
+    "Scom/地面站系统 1.canvas",
+    "work_log/Untitled.canvas"
+  ]
+}

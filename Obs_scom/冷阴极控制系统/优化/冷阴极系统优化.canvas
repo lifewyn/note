@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"78037ae0d919e1ed","type":"group","x":-800,"y":-460,"width":980,"height":780,"label":"冷阴极控制系统优化"},
+		{"id":"02167aaba1ea5e3e","type":"text","text":"内存泄漏","x":-282,"y":-440,"width":142,"height":60},
+		{"id":"4586939abf0c5fee","type":"text","text":"边界问题","x":-282,"y":-360,"width":143,"height":60},
+		{"id":"9b4e8be14bbec773","type":"text","text":"缓冲区溢出风险","x":-282,"y":-290,"width":180,"height":60},
+		{"id":"b967ec7323a64165","type":"text","text":"AI排查核心问题","x":-570,"y":-360,"width":180,"height":60},
+		{"id":"adfcf73c2a4a66d5","type":"text","text":"汇总","x":-760,"y":-230,"width":111,"height":60},
+		{"id":"654debf7fe9e1a70","type":"file","file":"Scom/冷阴极控制系统/优化/遗留问题内容表.md","x":-442,"y":-170,"width":500,"height":430}
+	],
+	"edges":[
+		{"id":"759613dfc3451a68","fromNode":"b967ec7323a64165","fromSide":"right","toNode":"02167aaba1ea5e3e","toSide":"left"},
+		{"id":"4ee900aa3b15a59d","fromNode":"b967ec7323a64165","fromSide":"right","toNode":"4586939abf0c5fee","toSide":"left"},
+		{"id":"ef6d9eebde42222a","fromNode":"b967ec7323a64165","fromSide":"right","toNode":"9b4e8be14bbec773","toSide":"left"},
+		{"id":"4db7fd32dcb27291","fromNode":"adfcf73c2a4a66d5","fromSide":"right","toNode":"b967ec7323a64165","toSide":"left"},
+		{"id":"9525cd5e2ca804e7","fromNode":"adfcf73c2a4a66d5","fromSide":"right","toNode":"654debf7fe9e1a70","toSide":"left"}
+	]
+}
