@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"e61ba4abc854b5e5","x":-1020,"y":-380,"width":400,"height":400,"type":"file","file":"Scom/冷阴极控制系统/任务/串口多线程/Sync_issue/互斥锁问题.md"},
-		{"id":"f3d10742a669096e","x":-400,"y":-380,"width":400,"height":400,"type":"file","file":"Scom/冷阴极控制系统/任务/串口多线程/Sync_issue/同步的最优方案.md"}
-	],
-	"edges":[]
-}
