@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "28527f77bfd441fb",
+        "id": "bffe0471984a5d28",
         "type": "tabs",
         "children": [
           {
-            "id": "ea421974751e753f",
+            "id": "4dd819d891b116d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/rebase问题.md",
-                "mode": "source",
+                "file": "2025-06-05.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rebase问题"
+              "title": "2025-06-05"
             }
           }
         ]
@@ -165,13 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea421974751e753f",
+  "active": "4dd819d891b116d4",
   "lastOpenFiles": [
+    "2025-06-05.md",
+    "Git/git 配置别名.md",
+    "Git/rebase问题.md",
     "C/No such file or directory.md",
     "Obs_use/链接图片.md",
     "Obs_use/obsidian 快捷键.md",
     "Obs_use/Mermaid.md",
-    "Git/rebase问题.md",
     "Git/Pasted image 20250604170402.png",
     "2025-06-04.md",
     "README.md",
@@ -201,7 +203,6 @@
     "2025-04-22.md",
     "项目复盘/消息处理和消息发送分离.md",
     "项目复盘/复盘backlog.md",
-    "项目复盘/Cursor IPC.md",
     "Scom/测温平台/Untitled.canvas",
     "Scom/测温平台/共享平台",
     "Scom/新平台冷阴极控制系统/射线机控制系统软件框架/射线机控制系统软件框架.pdf",
