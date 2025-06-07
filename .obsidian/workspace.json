@@ -13,20 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "C/C语言抽象.md",
-=======
                 "file": "data-structures/General.md",
->>>>>>> 3d4dcc0 (25-06-07-night)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "C语言抽象"
-=======
               "title": "General"
->>>>>>> 3d4dcc0 (25-06-07-night)
             }
           }
         ]
@@ -175,7 +167,6 @@
   },
   "active": "6c1d5f8940245aa7",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "linux/为什么大厂都在用 Yocto.md",
     "Network/网卡测试.md",
     "Git/git 配置别名.md",
@@ -195,12 +186,10 @@
     "2025-06-07.md",
     "2025-06-04.md",
     "C/C语言抽象.md",
-=======
     "data-structures/Pasted image 20250607212909.png",
     "C/C语言抽象.md",
     "data-structures/General.md",
     "data-structures",
->>>>>>> 3d4dcc0 (25-06-07-night)
     "C/No such file or directory.md",
     "C/学习网站.md",
     "C/库编译问题.md",
@@ -209,11 +198,8 @@
     "Obs_use/链接图片.md",
     "Obs_use/obsidian 快捷键.md",
     "Obs_use/Mermaid.md",
-<<<<<<< HEAD
-=======
     "Git/Pasted image 20250604170402.png",
     "2025-06-04.md",
->>>>>>> 3d4dcc0 (25-06-07-night)
     "README.md",
     "flash point.md",
     "Git/掌握Git高效技巧.md",
@@ -227,10 +213,7 @@
     "Pic/Pasted image 20250220162742.png",
     "Pic/Pasted image 20250326154927.png",
     "Pic/Pasted image 20250224155058.png",
-<<<<<<< HEAD
-=======
     "Pic/Pasted image 20250214134427.png",
->>>>>>> 3d4dcc0 (25-06-07-night)
     "Scom/测温平台/Untitled.canvas",
     "Scom/测温平台/共享平台",
     "Scom/新平台冷阴极控制系统/射线机控制系统软件框架/射线机控制系统软件框架.pdf",
