@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bffe0471984a5d28",
+        "id": "4064db0633e0aded",
         "type": "tabs",
         "children": [
           {
-            "id": "4dd819d891b116d4",
+            "id": "6277efd6acfbc7b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-05.md",
-                "mode": "preview",
+                "file": "C/C语言抽象.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-05"
+              "title": "C语言抽象"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -157,40 +157,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "4dd819d891b116d4",
+  "active": "6c1d5f8940245aa7",
   "lastOpenFiles": [
-    "2025-06-05.md",
+    "linux/为什么大厂都在用 Yocto.md",
+    "Network/网卡测试.md",
     "Git/git 配置别名.md",
+    "Docker/年少不知docker好.md",
+    "2025-06-05.md",
+    "网卡测试.md",
+    "年少不知docker好.md",
+    "为什么大厂都在用 Yocto.md",
+    "data-structures/Pasted image 20250607212909.png",
+    "data-structures/General.md",
+    "data-structures",
+    "Git/通过git修改build文件夹.md",
     "Git/rebase问题.md",
+    "Git/Pasted image 20250604170402.png",
+    "C/库编译问题.md",
+    "C/学习网站.md",
+    "2025-06-07.md",
+    "2025-06-04.md",
+    "C/C语言抽象.md",
     "C/No such file or directory.md",
     "Obs_use/链接图片.md",
     "Obs_use/obsidian 快捷键.md",
     "Obs_use/Mermaid.md",
-    "Git/Pasted image 20250604170402.png",
-    "2025-06-04.md",
     "README.md",
     "flash point.md",
     "Git/掌握Git高效技巧.md",
     "2025-06-03.md",
     "2025-04-28.md",
-    "Git/ssh key 问题.md",
-    "Git/git tag使用.md",
-    "Git/git 删除分支.md",
-    "Git/git 取消分支合并.md",
     "Git/Pasted image 20250324151616.png",
-    "Thread/循环变量 i 作为参数传递给线程函数.md",
-    "I2C/I2C 全志.md",
-    "IPC/Dbus/D-bus.md",
-    "2025-04-25.md",
-    "linux/cjson cfg.md",
     "I2C/Pasted image 20250320103855.png",
     "Pic/Pasted image 20250214143821.png",
     "Pic/Pasted image 20250214135059.png",
@@ -198,11 +203,6 @@
     "Pic/Pasted image 20250220162742.png",
     "Pic/Pasted image 20250326154927.png",
     "Pic/Pasted image 20250224155058.png",
-    "Pic/Pasted image 20250214134427.png",
-    "2025-04-23.md",
-    "2025-04-22.md",
-    "项目复盘/消息处理和消息发送分离.md",
-    "项目复盘/复盘backlog.md",
     "Scom/测温平台/Untitled.canvas",
     "Scom/测温平台/共享平台",
     "Scom/新平台冷阴极控制系统/射线机控制系统软件框架/射线机控制系统软件框架.pdf",
@@ -213,7 +213,6 @@
     "work_log/2025_Apr/Week2512",
     "work_log/2025_Apr/Week2511",
     "work_log/2025_Apr/Week2510",
-    "work_log/2025_04",
     "Scom/新平台冷阴极控制系统/uart-man/Uuart-man data flow.canvas",
     "Scom/冷阴极控制系统/优化/冷阴极系统优化.canvas",
     "Untitled 1.canvas",
